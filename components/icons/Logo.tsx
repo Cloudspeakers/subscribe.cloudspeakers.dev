@@ -1,3 +1,3 @@
-const Logo = ({ className = '', ...props }) => <img src="../public/logo.png" />
+const Logo = ({ className = '', ...props }) => <img src="/logo.png" />
 
 export default Logo;

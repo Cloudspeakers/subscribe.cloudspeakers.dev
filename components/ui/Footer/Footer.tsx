@@ -14,14 +14,13 @@ export default function Footer() {
               <span className="rounded-full border border-gray-700 mr-2">
                 <Logo />
               </span>
-              <span>ACME</span>
             </a>
           </Link>
         </div>
         <div className="col-span-1 lg:col-span-2">
           <ul className="flex flex-initial flex-col md:flex-1">
             <li className="py-3 md:py-0 md:pb-4">
-              <Link href="/">
+              <Link href="https://cloudspeakers.dev">
                 <a className="text-white hover:text-gray-200 transition ease-in-out duration-150">
                   Home
                 </a>
@@ -42,7 +41,7 @@ export default function Footer() {
               </Link>
             </li>
             <li className="py-3 md:py-0 md:pb-4">
-              <Link href="/">
+              <Link href="https://blog.cloudspeakers.dev">
                 <a className="text-white hover:text-gray-200 transition ease-in-out duration-150">
                   Blog
                 </a>
@@ -86,7 +85,7 @@ export default function Footer() {
       </div>
       <div className="py-12 flex flex-col md:flex-row justify-between items-center space-y-4 bg-gray-900">
         <div>
-          <span>&copy; 2020 ACME, Inc. All rights reserved.</span>
+          <span>&copy; 2020 Cloudspeakers, Inc. All rights reserved.</span>
         </div>
         <div className="flex items-center">
           <span className="text-white">Crafted by</span>

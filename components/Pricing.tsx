@@ -73,11 +73,10 @@ export default function Pricing({ products }: Props) {
       <div className="max-w-6xl mx-auto py-8 sm:py-24 px-4 sm:px-6 lg:px-8">
         <div className="sm:flex sm:flex-col sm:align-center">
           <h1 className="text-4xl font-extrabold text-white sm:text-center sm:text-6xl">
-            Pricing Plans
+            Join our community!
           </h1>
           <p className="mt-5 text-xl text-gray-200 sm:text-center sm:text-2xl max-w-2xl m-auto">
-            Start building for free, then add a site plan to go live. Account
-            plans unlock additional features.
+            We have multipe membership teirs to fit your needs. Come be a part of a active cloud-native developer community!
           </p>
           <div className="relative self-center mt-6 bg-gray-900 rounded-lg p-0.5 flex sm:mt-8 border border-gray-800">
             <button
